@@ -1,0 +1,606 @@
+{%extends 'index.html'%}
+{% block content%}
+<script src="{{url_for('static',filename= 'js/bootstrap.min.js')}}"></script>
+<script src="{{url_for('static',filename= 'js/jquery-1.11.1.min.js')}}"></script>
+<script>
+    function NewStudent(){
+      document.getElementById('students').style.display = "none";
+      document.getElementById('newstudents').style.display = "contents";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('exam').style.display = "none";
+    }
+    function exams(){
+      document.getElementById('students').style.display = "none";
+      document.getElementById('newstudents').style.display = "none";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('exam').style.display = "contents";
+    }
+    function Students(){
+      document.getElementById('students').style.display = "contents";
+      document.getElementById('newstudents').style.display = "none";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('exam').style.display = "none";
+    }
+    function Assessment(){
+      document.getElementById('Assessmentmarks').style.display = "contents";
+      document.getElementById('newstudents').style.display = "none";
+      document.getElementById('students').style.display = "none";
+      document.getElementById('exam').style.display = "none";
+    }
+    function writting(){
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "contents";
+      
+    }
+    function reading(){
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('reading').style.display = "contents";
+      document.getElementById('writting').style.display = "none";
+    }
+    function addition(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('addition').style.display = "contents";
+    }
+    function subtraction(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('subtraction').style.display = "contents";
+    }
+    function division(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";      
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('division').style.display = "contents";
+    }
+    function multiplication(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('multiplication').style.display = "contents";
+    }
+  </script>
+<style>
+    .mysidebar{
+        height: 50px; 
+        background-color: navy; 
+        color: whitesmoke;
+        border-radius: 5px;
+        align-content: center;
+        padding-top: 15px;
+        width: 100%;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="container">
+    <br><br>
+    <p>{{ "Logged in as " + session['Name'] + " " + session['Surname']}}</p>
+      <p style="color: green">{{message}}</p>
+    <div class="row">
+
+    <div class="col-md-9">
+        <div class="table-responsive" style="height: 650px; overflow: scroll;" id="students">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Surname</th>
+                    <th>Reg number</th>
+                    <th>Gender</th>
+                    <th>Health</th>
+                    <th>Parents</th>
+                    <th>Guidane</th>
+                    <th>Level of Education</th>
+                </tr>
+                </thead>
+
+                <tbody>
+                        {% for student in students %}
+                        <tr>
+                            <td>{{student.Name}}</td>
+                            <td>{{student.Surname}}</td>
+                            <td>{{student.RegNumber}}</td>
+                            <td>{{student.Gender}}</td>
+                            <td>{{student.health}}</td>
+                            <td>{{student.parents}}</td>
+                            <td>{{student.relation}}</td>
+                            <td>{{student.level}}</td>
+                        </tr>
+                        {% endfor %}
+                 </tbody>
+            </table>
+        </div>
+      
+        <div id="newstudents" style="display: none;">
+          <br>
+              <form method="POST" action="/newstudent">
+              <table>
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th><h2>New Student</h2></th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td> <label>Name</label></td>
+                    <td><p></p></td>
+                    <td><input type="text" class="form-control" name="name" required=''></td>
+                  </tr>
+                  <tr>
+                      <td> <label>Surname</label></td>
+                      <td><p></p></td>
+                      <td><input type="text" class="form-control" name="surname" required=''></td>
+                    </tr>
+                    <tr>
+                        <td> <label>Date of Birth</label></td>
+                        <td><p></p></td>
+                        <td><input type="date" class="form-control" name="dob" required = ''></td>
+                      </tr>
+                    </tr>
+                  </tr>
+                  <tr>
+                      <td> <label>Surname</label></td>
+                      <td><p></p></td>
+                      <td><select class="form-control" name="gender">
+                        <option>Male</option>
+                        <option>Female</option>
+                      </select></td>
+                    </tr>
+                    <tr>
+                        <td> <label>Health Problems</label></td>
+                        <td><p></p></td>
+                        <td><input type="text" class="form-control" name="health" required=''></td>
+                      </tr>
+                    </tr>
+                    <tr>
+                        <td> <label>Parents status</label></td>
+                        <td><p></p></td>
+                        <td><input type="text" class="form-control" name="parentstatus" required=''></td>
+                      </tr>
+                    </tr>
+                    <tr>
+                        <td> <label>Relationship to Guidane</label></td>
+                        <td><p></p></td>
+                        <td><input type="text" class="form-control" name="relation" required=''></td>
+                      </tr>
+                    </tr>
+                    <tr>
+                        <td> <label>Level of Education</label></td>
+                        <td><p></p></td>
+                        <td><input type="text" class="form-control" name="level" required=''></td>
+                      </tr>
+                </tbody>
+              </table>
+              <br>
+              <center>
+                <button type="submit" class="btn btn-primary btn-lg">Save</button>
+              </center>
+              </form>
+        </div>
+
+        <div id="Assessmentmarks" style="display: none;">
+            <br>
+            <div  id="reading">
+                <form method="POST" action="/assessmentmarks">
+                  <input type="hidden" name="type" value="reading">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th></th>
+                        <th><h2>Continious Assessment</h2></th>
+                        <th></th>
+                        <th></th>
+                      </tr>
+                    </thead>
+                    <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+                    <tbody>
+                      <tr>
+                          <td> <label>Full Name</label></td>
+                          <td><input type="text" class="form-control" name="name" required=''></td>
+                          <td><label>Reg number</label></td>
+                          <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                      </tr>
+                      <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+                      <tr>
+                          <td> <label>Reading Mark</label></td>
+                          <td><input type="value" class="form-control" name="mark"></td>
+                          <td><input type="text" name="Reading" id="2" placeholder="Reading Age(months)" readonly style="border:none"></td>
+                          <td><input type="value" class="form-control" name="age"></td>
+                        </tr>
+                      
+                      </tbody>
+                    </table>
+                    <br>
+                    <center>
+                      <button type="submit" class="btn btn-info btn-lg">Save</button>
+                    </center>
+                    </form>
+            </div>
+            <div id="writting" style="display: none;">
+
+                <form method="POST" action="/assessmentmarks">
+                  <input type="hidden" name="type" value="writting">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th></th>
+                        <th><h2>Continious Assessment</h2></th>
+                        <th></th>
+                        <th></th>
+                      </tr>
+                    </thead>
+                    <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+                    <tbody>
+                      <tr>
+                          <td> <label>Full Name</label></td>
+                          <td><input type="text" class="form-control" name="name" required=''></td>
+                          <td><label>Reg number</label></td>
+                          <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                      </tr>
+                      <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+
+                      <tr>
+                
+                          <td> <label>Writing Mark</label></td>
+                          <td><input type="value" class="form-control" name="mark"></td>
+                          <td><input type="text" name="Writting" placeholder="Writing Age(months)" readonly style="border:none" id="1"></td>
+                          <td><input type="value" class="form-control" name="age"></td>
+                         </tr>
+
+                        </tbody>
+                      </table>
+                      <br>
+                      <center>
+                        <button type="submit" class="btn btn-info btn-lg">Save</button>
+                      </center>
+                      </form>
+
+            </div>
+
+            <div id="addition" style="display: none;">
+                <form method="POST" action="/assessmentmarks">
+                  <input type="hidden" name="type" value="addition">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th></th>
+                        <th><h2>Continious Assessment</h2></th>
+                        <th></th>
+                        <th></th>
+                      </tr>
+                    </thead>
+                    <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+                    <tbody>
+                      <tr>
+                          <td> <label>Full Name</label></td>
+                          <td><input type="text" class="form-control" name="name" required=''></td>
+                          <td><label>Reg number</label></td>
+                          <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                      </tr>
+                      <tr>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                        <td><br></td>
+                      </tr>
+
+                      <tr>
+                        
+                          <td> <label>Addition Mark<label></td>
+                          <td><input type="value" class="form-control" name="mark"></td>
+                          <td><label>Age(months)</label></td>
+                          <td><input type="value" class="form-control" name="age"></td>
+                        </tr>
+
+                      </tbody>
+                    </table>
+                    <br>
+                    <center>
+                      <button type="submit" class="btn btn-info btn-lg">Save</button>
+                    </center>
+                    </form>
+            </div>
+                      
+
+                     
+                <div id="subtraction" style="display: none;">
+                    <form method="POST" action="/assessmentmarks">
+                      <input type="hidden" name="type" value="subtraction">
+                      <table>
+                        <thead>
+                          <tr>
+                            <th></th>
+                            <th><h2>Continious Assessment</h2></th>
+                            <th></th>
+                            <th></th>
+                          </tr>
+                        </thead>
+                        <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+                        <tbody>
+                          <tr>
+                              <td> <label>Full Name</label></td>
+                              <td><input type="text" class="form-control" name="name" required=''></td>
+                              <td><label>Reg number</label></td>
+                              <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          </tr>
+                          <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+
+                          <tr>
+                              <td> <label>Subtraction Mark</label></td>
+                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td><label>Subtraction Age(months)</label></td>
+                              <td><input type="value" class="form-control" name="age"></td>
+              
+                            </tr>
+                          </tbody>
+                        </table>
+                        <br>
+                        <center>
+                          <button type="submit" class="btn btn-info btn-lg">Save</button>
+                        </center>
+                        </form>
+
+                </div>
+                <div id="multiplication" style="display: none;">
+                    <form method="POST" action="/assessmentmarks">
+                      <input type="hidden" name="type" value="multiplication">
+                      <table>
+                        <thead>
+                          <tr>
+                            <th></th>
+                            <th><h2>Continious Assessment</h2></th>
+                            <th></th>
+                            <th></th>
+                          </tr>
+                        </thead>
+                        <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+                        <tbody>
+                          <tr>
+                              <td> <label>Full Name</label></td>
+                              <td><input type="text" class="form-control" name="name" required=''></td>
+                              <td><label>Reg number</label></td>
+                              <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          </tr>
+                          <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+
+                          <tr>
+                        
+                              <td> <label>Multiplication Mark</label></td>
+                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td><label>Multiplication Age(months)</label></td>
+                              <td><input type="value" class="form-control" name="age"></td>
+          
+                            </tr>
+
+                          </tr>
+                        </tbody>
+                      </table>
+                      <br>
+                      <center>
+                        <button type="submit" class="btn btn-info btn-lg">Save</button>
+                      </center>
+                      </form>
+                </div>
+
+                <div id="division" style="display: none;">
+                    <form method="POST" action="/assessmentmarks">
+                      <input type="hidden" name="type" value="division">
+                      <table>
+                        <thead>
+                          <tr>
+                            <th></th>
+                            <th><h2>Continious Assessment</h2></th>
+                            <th></th>
+                            <th></th>
+                          </tr>
+                        </thead>
+                        <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+                        <tbody>
+                          <tr>
+                              <td> <label>Full Name</label></td>
+                              <td><input type="text" class="form-control" name="name" required=''></td>
+                              <td><label>Reg number</label></td>
+                              <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          </tr>
+                          <tr>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                            <td><br></td>
+                          </tr>
+
+                          <tr>
+                        
+                              <td> <label>Division Mark</label></td>
+                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td><label>Division Age(months)</label></td>
+                              <td><input type="value" class="form-control" name="age"></td>
+          
+                            </tr>
+
+                          </tbody>
+                        </table>
+                        <br>
+                        <center>
+                          <button type="submit" class="btn btn-info btn-lg">Save</button>
+                        </center>
+                        </form>
+                     
+                </div>
+                     
+    
+                <br><br>
+                <center>
+                <button type="button" class="btn btn-primary btn-lg" onclick="writting()">Writting</button>
+                <button type="button" class="btn btn-primary btn-lg" onclick="reading()">Reading</button>
+                <button type="button" class="btn btn-primary btn-lg" onclick="addition()">Additions</button>
+                <button type="button" class="btn btn-primary btn-lg" onclick="subtraction()">Subtractions</button>
+                <button type="button" class="btn btn-primary btn-lg" onclick="division()">Divisions</button>
+                <button type="button" class="btn btn-primary btn-lg" onclick="multiplication()">Multiplications</button>
+                </center>
+          </div>
+      <div id="exam" style="display: none;">
+        <h2>Exam Marks</h2>
+        <br>
+        <form action="/exammark" method="POST">
+          <table>
+            <thead>
+              <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><label class="control-label">Student Name</label></td>
+                <td><input type="text" class="form-control" name="name"></td>
+                <td><label class="control-label">Reg number</label></td>
+                <td><input type="text" class="form-control" name = "RegNumber"></td>
+              </tr>
+              <tr>
+                  <td><br></td>
+                  <td><br></td>
+                  <td><br></td>
+                  <td><br></td>
+                </tr>
+                <tr>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                    <td><br></td>
+                  </tr>
+                <tr>
+                  <td></td>
+                  <td><label class="control-label">Mathematics</label></td>
+              
+                  <td><input type="text" class="form-control" name = "RegNumber"></td>
+                  <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><label class="control-label">English</label></td>
+                
+                    <td><input type="text" class="form-control" name = "RegNumber"></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                      <td></td>
+                      <td><label class="control-label">Shona</label></td>
+                  
+                      <td><input type="text" class="form-control" name = "RegNumber"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><label class="control-label">General Paper</label></td>
+                    
+                        <td><input type="text" class="form-control" name = "RegNumber"></td>
+                        <td></td>
+                      </tr>
+            </tbody>
+
+          </table>
+          <br><br><br>
+          <center>
+              <button type="submit" class="btn btnlg btn-info">Save Changes</button>
+          </center>
+          
+        </form>
+
+      </div>
+
+    <div id="reveals">
+
+    </div>
+
+    </div>
+        <div class="col-md-3" style="margin-top: 70px; top: 0; float: right;" id="me">
+            
+            <button class="mysidebar" onclick="NewStudent()">New</button><br>
+            <button class="mysidebar"  onclick="Students()">Students</button><br>
+            <button class="mysidebar" onclick="exams()">Examination Marks</center></button>
+            <br>
+            <button class="mysidebar" onclick="Assessment()">Assessment marks</button><br>
+            <button class="mysidebar" href="#students" style="color:whitesmoke"><center>Search</center></button><br>
+        </div>
+    </div>
+
+</div>
+{% endblock %}
+    <script src="{{url_for('static',filename= 'js/bootstrap.min.js')}}"></script>
+    <script src="{{url_for('static',filename= 'js/bootstrap.js')}}"></script>
+    <script src="{{url_for('static',filename= 'js/jquery-1.11.1.min.js')}}"></script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta charset="utf-8">
+	<title>HarrisonHighSchool</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<link rel="stylesheet" media="all" href="{{url_for('static',filename = 'css/style.css')}}">
+	<link href="{{url_for('static',filename = 'css/bootstrap.css')}}" rel='stylesheet' type='text/css' />
+    <link href="{{url_for('static',filename = 'css/bootstrap.min.css')}}" rel='stylesheet' type='text/css' />
+	<style>
+		tr{
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+
+	<header id="header">
+		<div class="container">
+				<!-- <a href="{{url_for('home')}}"><img src="{{url_for('static',filename = 'images/logo.jpg')}}"></a> -->
+			
+			
+			<a href="{{url_for('home')}}" id="logo" title="Mubeena Ebrahim School"><img href="{{url_for('static',filename = 'images/logo.png')}}"></a>
+			<div class="menu-trigger"></div>
+			<nav id="menu">
+				<ul>
+					<li><a href="#">Courses</a></li>
+					<li><a href="#">Students</a></li>
+					<li><a href="#">Events</a></li>
+				 </ul>
+				 
+				<ul>
+					<li><a href="#">Teachers</a></li>
+					<li><a href="{{url_for('login')}}">Sign In</a></li>
+					<li><a href="#fancy" class="get-contact">Contact</a></li>
+   				</ul>
+			</nav>
+			<!-- / navigation -->
+		</div>
+		<!-- / container -->
+	
+	</header>
+	<!-- / header -->
+	{% block content %}
+	
+	<div class="slider">
+		<ul class="bxslider">
+			<li>
+				<div class="container">
+					<div class="info">
+						<h2> <br><span>Mubeena Ebrahim School</span></h2>
+						<a href="#">Check out our new programs</a>
+					</div>
+				</div>
+				<!-- / content -->
+			</li>
+			<li>
+				<div class="container">
+					<div class="info">
+						<h2>It’s Time to <br><span>Get back to school</span></h2>
+						<a href="#">Check out our new programs</a>
+					</div>
+				</div>
+				<!-- / content -->
+			</li>
+			<li>
+				<div class="container">
+					<div class="info">
+						<h2>It’s Time to <br><span>Get back to school</span></h2>
+						<a href="#">Check out our new programs</a>
+					</div>
+				</div>
+				<!-- / content -->
+			</li>
+		</ul>
+		<div class="bg-bottom"></div>
+	</div>
+	
+	<section class="posts">
+		<div class="container">
+			<article>
+				<div class="pic"><img width="121" src="{{url_for('static',filename = 'images/a.jpg')}}" alt=""></div>
+				<div class="info">
+					<h3>Welcome to Mubeena Ebrahim School</h3>
+					<p>First term is finally over.. What a long term! So many exciting things happened this term and now its time to rest...
+						 Have a restful holiday.. The School office is closed and will reopen on the 29th of april from 8am to 12pm.. 
+						See you next term!!! </p>
+				</div>
+			</article>
+			<article>
+				<div class="pic"><img width="121" src="{{url_for('static',filename = 'images/b.jpg')}}" alt=""></div>
+				<div class="info">
+					<h3>Awesome results of our students</h3>
+					<p>We have had a super exciting donation given to us by Mr Paul Smith from the U.K,
+						 a very good friend and partner to Mubeena. Last time he visited us he hosted a soccer coaching clinic.
+						 This time in partnership with GOALS </p>
+				</div>
+			</article>
+		</div>
+		<!-- / container -->
+	</section>
+
+	<section class="news">
+		<div class="container">
+			<h2>Latest news</h2>
+			<article>
+				<div class="pic"><img src="{{url_for('static',filename = 'images/d.jpg')}}" alt=""></div>
+				<div class="info">
+					<h4>Donation to Cylone Idai</h4>
+					<p class="date">14 APR 2019, Jason Bang</p>
+					<p>MEPS Prefects trip to the Red Cross and Red Cresent Society of Zimbabwe delivering the donations from the Parents and s
+						tudents towards helping the people affected by Cyclone Idai. A big thank you to all who donated and helped with their time
+						 and effort towards this worthy cause.
+						 We always encourage the children to help out and give to those in need. A little something from everyone goes a long way.💕💕</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<article>
+				<div class="pic"><img src="{{url_for('static',filename = 'images/c.jpg')}}" alt=""></div>
+				<div class="info">
+					<h4>Omnis iste natus error sit voluptatem accusantium </h4>
+					<p class="date">14 APR 2014, Jason Bang</p>
+					<p>Day of Deen... Mashaallah the children did so well. The children really put in a lot of time and effort to ensure they recite beautifully... Well done everyone... A big Thank you to all our donors for all the goodies donated towards our give away bags.. After such a
+					 good job reciting the children received some exciting bags full of lovely stuff to eat... A little encouragement goes a long way!!</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<div class="btn-holder">
+				<a class="btn" href="#">See archival news</a>
+			</div>
+		</div>
+		<!-- / container -->
+	</section>
+
+	<section class="events">
+		<div class="container">
+			<h2>Upcoming events</h2>
+			<article>
+				<div class="current-date">
+					<p>April</p>
+					<p class="date">15</p>
+				</div>
+				<div class="info">
+					<p>Consulation day</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<article>
+				<div class="current-date">
+					<p>April</p>
+					<p class="date">17</p>
+				</div>
+				<div class="info">
+					<p>Prize Giving day</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<article>
+				<div class="current-date">
+					<p>April</p>
+					<p class="date">25</p>
+				</div>
+				<div class="info">
+					<p>Annual General Meeting</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<article>
+				<div class="current-date">
+					<p>April</p>
+					<p class="date">29</p>
+				</div>
+				<div class="info">
+					<p>Sports competitions</p>
+					<a class="more" href="#">Read more</a>
+				</div>
+			</article>
+			<div class="btn-holder">
+				<a class="btn blue" href="#">See all upcoming events</a>
+			</div>
+		</div>
+		<!-- / container -->
+	</section>
+	<div class="container">
+		<a href="#fancy" class="info-request">
+			<span class="holder">
+				<span class="title">Request information</span>
+				<span class="text">Do you have some questions? Fill the form and get an answer!</span>
+			</span>
+			<span class="arrow"></span>
+		</a>
+	</div>
+
+
+	<footer id="footer">
+		<div class="container">
+			<section>
+				<article class="col-4">
+					<h3>Contact</h3>
+					<ul>
+						<li class="address"><a href="#">McMeekan Road (2.06 mi)<br>
+								Harare<br> Zimbabwe</a></li>
+						<li class="mail"><a href="#">contact@Mubeena.com</a></li>
+						<li class="phone last"><a href="#"> 536 845 924</a></li>
+					</ul>
+				</article>
+				<article class="col-4">
+					<h3>Forum topics</h3>
+					<ul>
+						<li><a href="#">How expensive is this school</a></li>
+						<li><a href="#">Where exactly is this school</a></li>
+						<li><a href="#">What is the passrate of this school </a></li>
+						<li><a href="#">Student teacher ratio </a></li>
+						
+					</ul>
+				</article>
+				<article class="col-4">
+					<h3>Social media</h3>
+					<p>Connect with us on social media</p>
+					<ul>
+						<li class="facebook"><a href="#">Facebook</a></li>
+						<li class="google-plus"><a href="#">Google+</a></li>
+						<li class="twitter"><a href="#">Twitter</a></li>
+						<li class="pinterest"><a href="#">Pinterest</a></li>
+					</ul>
+				</article>
+				<article class="col-4">
+					<h3>Newsletter</h3>
+					<p>We keep you updated subscribe with us</p>
+					<form action="#">
+						<input placeholder="Email address..." type="text">
+						<button type="submit">Subscribe</button>
+					</form>
+					<ul>
+						<li><a href="#"></a></li>
+					</ul>
+				</article>
+			</section>
+			<p class="copy">Copyright 2019 Harrison High School. Designed by <a href ="#" title="#" target="_blank">Mubeena Ebrahim</a>. All rights reserved.</p>
+		</div>
+		<!-- / container -->
+	</footer>
+	<!-- / footer -->
+
+	<div id="fancy">
+		<h2>Request information</h2>
+		<form action="#">
+			<div class="left">
+				<fieldset class="mail"><input placeholder="Email address..." type="text"></fieldset>
+				<fieldset class="name"><input placeholder="Name..." type="text"></fieldset>
+				<fieldset class="subject"><select><option>Choose subject...</option><option>Choose subject...</option><option>Choose subject...</option></select></fieldset>
+			</div>
+			<div class="right">
+				<fieldset class="question"><textarea placeholder="Question..."></textarea></fieldset>
+			</div>
+			<div class="btn-holder">
+				<button class="btn blue" type="submit">Send request</button>
+			</div>
+		</form>
+	</div>
+
+
+
+	<script src="{{url_for('static',filename = 'js/jquery-1.11.1.min.js')}}"></script>
+	<script>window.jQuery || document.write("<script src='js/jquery-1.11.1.min.js'>\x3C/script>")</script>
+	<script src="{{url_for('static',filename = 'js/plugins.js')}}"></script>
+	<script src="{{url_for('static',filename = 'js/main.js')}}"></script>
+</body>
+</html>
+
+{% endblock%}
