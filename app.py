@@ -7,6 +7,7 @@ from sklearn import preprocessing
 from sklearn import tree
 from sklearn.metrics import accuracy_score
 from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import MultiLabelBinarizer
 
 ''' Loading the dataset''' 
 data = pd.read_csv('static/datasets/mubeena1.csv')
@@ -20,14 +21,23 @@ Model.fit(inputs,Target)
 Model.score(inputs,Target)
 
 # for  LogisticRegression
+LogisticRegressionData = pd.read_csv('static/datasets/mubeena2.csv')
+LogisticRegressionInputs = LogisticRegressionData.drop('Remarks',axis = 'columns')
+print(LogisticRegressionData.head())
+LogisticRegressionModel = LogisticRegression(solver = 'lbfgs' ,multi_class='multinomial')
 
-LogisticRegressionData = pd.read_csv('static/datasets/newdata.csv')
-LogisticRegressionInputs = LogisticRegressionData.drop('Comments',axis = 'columns')
-LogisticRegressionTarget = LogisticRegressionData['Comments']
-LogisticRegressionModel = LogisticRegression(solver = 'lbfgs')
+le = preprocessing.LabelEncoder()
+
+LogisticRegressionTarget = le.fit_transform(LogisticRegressionData['Remarks'])
+
+
+# for i in LogisticRegressionTarget:
 
 LogisticRegressionModel.fit(LogisticRegressionInputs,LogisticRegressionTarget)
-
+print('...............')
+print(len(LogisticRegressionInputs))
+print('..........')
+print(len(LogisticRegressionTarget))
 
  
 print(LogisticRegressionData.head())
@@ -299,11 +309,12 @@ def review():
 					total = int(Maths) + int(Eng) + int(Shona) + int(Gp)
 					print(".............................................................")
 					print(str(Maths)+" "+str(Eng)+ " "+ str(Shona) +" " + str(Gp) + " "+ str(total))
-					print(inputs.head())
 					print(Model.score(inputs,Target))
 					print(Model.predict([[Maths,Eng,Shona,Gp,total]]))
 					Predict = Model.predict([[Maths,Eng,Shona,Gp,total]])
-
+					test =[Maths,Eng,Shona,Gp]
+					LogisticRegressionPredict = LogisticRegressionModel.predict([test]).astype(np.float64)
+					print(LogisticRegressionPredict)
 					if Predict == 1:
 						prediction = "Pass"
 					else:

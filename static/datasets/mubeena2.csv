@@ -1,17 +1,1004 @@
-Reading,Spellings,Comprehension,Mathematics,Remarks
-92,,90,93,[]
-86,,88,93,[]
-35,,50,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
-84,,62,76,[]
-72,,74,80,[]
-76,,72,77,[]
-66,,82,84,[]
-60,,74,77,[]
-64,,72,76,[]
-62,,82,81,[]
-42,,76,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
-58,,74,75,[]
-44,,70,73,"['Practice, the more  you read the better reader you become, do feed your mind']"
-60,,52,46,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
-80,,40,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
-92,,82,77,[]
+Reading,Spelling,Comprehension,Mathematics,Remarks
+72,86,74,80,['Child is very Inteligent']
+76,82,72,77,['Child is very Inteligent']
+66,86,82,84,['Child is very Inteligent']
+60,80,74,77,['Child is very Inteligent']
+64,80,72,76,['Child is very Inteligent']
+62,80,82,81,['Child is very Inteligent']
+42,88,76,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+58,76,74,75,['Child is very Inteligent']
+44,76,70,73,"['Practice, the more  you read the better reader you become, do feed your mind']"
+60,40,52,46,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,52,40,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+92,72,82,77,['Child is very Inteligent']
+86,80,90,85,['Child is very Inteligent']
+82,76,90,83,['Child is very Inteligent']
+84,50,54,52,['Child is inteligent but needs help from guidane also']
+72,72,72,72,['Child is very Inteligent']
+76,50,78,64,['Child is inteligent but needs help from guidane also']
+66,70,60,65,['Child is very Inteligent']
+60,80,80,80,['Child is very Inteligent']
+64,50,56,53,['Child is inteligent but needs help from guidane also']
+62,36,20,28,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+65,70,58,80,['Child is very Inteligent']
+58,70,58,64,['Child is very Inteligent']
+44,60,60,60,"['Practice, the more  you read the better reader you become, do feed your mind']"
+48,28,38,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,76,74,75,['Child is very Inteligent']
+80,76,70,73,['Child is very Inteligent']
+92,40,52,46,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+86,74,80,84,['Child is very Inteligent']
+82,80,81,76,['Child is very Inteligent']
+84,74,79,81,['Child is very Inteligent']
+72,70,71,77,['Child is very Inteligent']
+76,50,63,72,['Child is inteligent but needs help from guidane also']
+66,50,58,86,['Child is inteligent but needs help from guidane also']
+60,50,55,66,['Child is inteligent but needs help from guidane also']
+64,52,58,70,['Child is very Inteligent']
+62,50,56,67,['Child is inteligent but needs help from guidane also']
+42,30,36,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+58,89,56,80,['Child is very Inteligent']
+44,88,37,80,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+60,40,55,58,['Practice wide and wild reading to improve vocabulary']
+60,30,55,76,['Practice wide and wild reading to improve vocabulary']
+70,30,38,34,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,40,45,95,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+85,47,46,93,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+83,45,39,84,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+52,43,41,84,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+72,44,45,89,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+64,45,37,82,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+65,39,42,81,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+80,43,40,83,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+53,47,35,82,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+30,46,27,73,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+33,36,35,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,44,35,79,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+45,47,33,26,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+78,88,73,69,['Child is very Inteligent']
+92,31,26,57,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+94,30,27,57,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+33,28,21,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,48,48,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+96,48,78,91,['Practice wide and wild reading to improve vocabulary']
+94,47,46,93,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+45,78,58,93,"['Practice, the more  you read the better reader you become, do feed your mind']"
+36,78,58,86,"['Practice, the more  you read the better reader you become, do feed your mind']"
+45,38,47,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+40,45,44,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,43,43,86,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+48,43,42,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,45,41,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+45,46,42,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+79,74,56,80,['Child is very Inteligent']
+45,37,36,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,36,41,77,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+45,42,36,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,58,85,55,['Child is very Inteligent']
+75,58,78,85,['Child is very Inteligent']
+76,56,34,54,"['Practice, the more  you read the better reader you become, do feed your mind']"
+84,40,68,79,['Practice wide and wild reading to improve vocabulary']
+78,30,44,74,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+81,33,35,68,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+33,49,48,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,31,34,55,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+37,33,40,43,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,43,47,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+55,65,74,66,['Child is very Inteligent']
+58,70,54,59,['Child is very Inteligent']
+57,73,52,70,['Child is very Inteligent']
+65,48,60,63,['Practice wide and wild reading to improve vocabulary']
+59,63,71,64,['Child is very Inteligent']
+52,78,80,59,['Child is very Inteligent']
+38,38,38,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+47,32,30,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,16,25,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+70,75,58,68,['Child is very Inteligent']
+78,46,50,96,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+37,47,48,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+67,45,48,93,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+23,43,49,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+33,43,47,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,48,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+49,45,43,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+74,58,66,87,['Child is very Inteligent']
+68,85,66,88,['Child is very Inteligent']
+97,58,85,80,['Child is very Inteligent']
+35,40,46,86,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+73,45,37,82,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+25,39,42,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+69,75,58,89,['Child is very Inteligent']
+45,42,40,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+45,37,48,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,70,54,57,['Child is very Inteligent']
+37,39,42,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+65,70,88,50,['Child is inteligent but needs help from guidane also']
+22,36,45,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,33,27,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+78,65,56,70,['Child is very Inteligent']
+41,49,43,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+35,45,50,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+55,51,76,67,['Child is very Inteligent']
+34,46,26,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,33,27,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+78,58,56,55,['Child is very Inteligent']
+70,65,70,62,['Child is very Inteligent']
+35,45,50,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+28,46,35,81,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+42,22,35,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,51,43,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,75,70,55,['Child is very Inteligent']
+37,40,48,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+56,68,70,69,['Child is very Inteligent']
+45,33,27,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,32,56,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+41,49,43,22,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+35,45,50,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,66,65,78,['Child is inteligent but needs help from guidane also']
+42,22,35,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,51,43,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+31,51,40,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+41,49,43,22,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,66,65,78,['Child is inteligent but needs help from guidane also']
+45,38,50,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+74,68,55,50,['Child is inteligent but needs help from guidane also']
+65,85,58,50,['Child is inteligent but needs help from guidane also']
+75,66,50,75,['Child is inteligent but needs help from guidane also']
+30,36,44,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+38,45,54,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,82,68,96,['Child is inteligent but needs help from guidane also']
+75,82,96,92,['Child is very Inteligent']
+25,34,45,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+29,45,36,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+32,47,54,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+75,86,72,76,['Child is very Inteligent']
+56,96,72,80,['Child is very Inteligent']
+78,92,88,84,['Child is very Inteligent']
+78,86,72,76,['Child is very Inteligent']
+87,70,90,72,['Child is very Inteligent']
+17,36,46,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+30,48,57,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+85,82,64,88,['Child is very Inteligent']
+78,48,84,76,['Practice wide and wild reading to improve vocabulary']
+58,72,68,80,['Child is very Inteligent']
+25,38,45,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+22,36,49,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+58,68,78,72,['Child is very Inteligent']
+33,44,48,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+75,56,58,72,['Child is very Inteligent']
+23,36,45,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+22,32,40,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+16,12,28,28,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+5,8,14,28,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,44,35,36,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,45,22,37,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,82,72,60,['Child is very Inteligent']
+92,82,70,72,['Child is very Inteligent']
+74,64,50,88,['Child is inteligent but needs help from guidane also']
+47,54,38,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+92,82,74,68,['Child is very Inteligent']
+94,86,80,58,['Child is very Inteligent']
+74,57,78,58,['Child is very Inteligent']
+68,90,76,94,['Child is very Inteligent']
+36,45,47,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+39,45,42,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,35,35,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+24,45,47,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+67,52,78,60,['Child is very Inteligent']
+18,58,30,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+67,72,56,67,['Child is very Inteligent']
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+24,35,45,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+41,25,45,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+34,38,45,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+37,45,25,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,25,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,32,23,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+39,41,43,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,30,40,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,21,41,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,54,40,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+56,51,48,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,37,48,36,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,50,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+75,66,72,58,['Child is very Inteligent']
+38,76,40,22,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,66,74,66,['Child is very Inteligent']
+77,52,54,60,['Child is very Inteligent']
+33,58,45,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+35,45,37,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+41,43,50,43,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+40,38,46,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,47,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,45,50,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+72,76,64,60,['Child is very Inteligent']
+44,36,41,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,80,58,['Child is very Inteligent']
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+74,58,80,70,['Child is very Inteligent']
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+70,72,58,69,['Child is very Inteligent']
+54,60,81,69,['Child is very Inteligent']
+48,40,36,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,54,35,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+36,25,45,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,36,45,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+35,45,41,20,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,54,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+52,76,56,80,['Child is very Inteligent']
+41,38,47,29,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,40,43,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,30,50,68,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+40,42,48,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,40,48,19,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,78,66,"['Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,78,60,['Child is very Inteligent']
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+40,39,50,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+30,50,47,48,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+34,36,40,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+45,25,48,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,52,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,25,20,58,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+74,66,70,60,['Child is very Inteligent']
+74,52,50,60,['Child is inteligent but needs help from guidane also']
+74,58,56,70,['Child is very Inteligent']
+75,58,75,58,['Child is very Inteligent']
+75,72,58,58,['Child is very Inteligent']
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,30,35,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,35,45,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,80,74,80,['Child is very Inteligent']
+25,36,45,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+45,36,41,25,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,42,30,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+65,72,70,82,['Child is very Inteligent']
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+45,36,40,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,47,48,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+42,41,48,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,89,58,['Child is very Inteligent']
+38,25,40,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,58,60,"['Practice, the more  you read the better reader you become, do feed your mind']"
+35,39,38,25,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,70,60,['Child is very Inteligent']
+48,35,47,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+37,40,42,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+45,42,40,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+56,49,48,30,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,85,58,['Child is very Inteligent']
+38,25,40,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,66,55,66,['Child is very Inteligent']
+70,52,80,60,['Child is very Inteligent']
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+24,45,36,25,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+25,48,41,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,36,42,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,76,64,60,['Child is very Inteligent']
+44,40,36,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,37,48,25,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+82,52,75,60,['Child is very Inteligent']
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+68,58,72,50,['Child is inteligent but needs help from guidane also']
+60,72,78,80,['Child is very Inteligent']
+54,60,88,67,['Child is very Inteligent']
+68,90,76,94,['Child is very Inteligent']
+41,35,45,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+45,35,56,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+36,45,48,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+75,52,80,60,['Child is very Inteligent']
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+74,58,78,58,['Child is very Inteligent']
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+39,36,42,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+62,88,74,90,['Child is very Inteligent']
+40,48,45,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+36,45,25,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+36,45,38,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+75,86,65,80,['Child is very Inteligent']
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,41,56,45,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,76,75,55,['Child is very Inteligent']
+54,66,60,58,['Child is very Inteligent']
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+60,80,74,80,['Child is very Inteligent']
+36,40,66,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+38,47,41,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,43,9,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,42,36,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+69,41,46,38,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+39,42,38,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,38,40,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,25,40,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,40,51,48,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,54,30,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,40,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+56,66,75,66,['Child is very Inteligent']
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,60,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+71,72,57,65,['Child is very Inteligent']
+36,27,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+36,52,31,29,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,37,66,40,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+38,48,50,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+47,36,38,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+35,45,37,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+44,45,46,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,57,40,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+47,36,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+75,66,78,58,['Child is very Inteligent']
+38,36,40,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+75,66,56,66,['Child is very Inteligent']
+78,58,56,70,['Child is very Inteligent']
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+48,37,44,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+62,88,74,90,['Child is very Inteligent']
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+40,41,44,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+39,45,38,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,25,50,38,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+33,37,40,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+56,44,48,35,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+85,68,74,60,['Child is very Inteligent']
+80,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,78,58,['Child is very Inteligent']
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+78,66,58,66,['Child is very Inteligent']
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+74,58,58,78,['Child is very Inteligent']
+80,72,75,68,['Child is very Inteligent']
+54,60,75,60,['Child is very Inteligent']
+45,30,25,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+33,23,50,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+60,80,74,80,['Child is very Inteligent']
+47,22,36,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,33,27,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+29,36,44,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,44,35,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+47,30,44,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,35,28,49,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+35,44,25,27,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,45,40,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+32,45,48,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+40,37,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,75,58,['Child is very Inteligent']
+54,85,55,56,['Child is very Inteligent']
+74,66,75,66,['Child is very Inteligent']
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+71,58,63,70,['Child is very Inteligent']
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,72,75,65,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,60,73,64,['Child is very Inteligent']
+27,28,43,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,49,33,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+32,39,47,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+47,38,44,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,36,30,27,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+37,36,35,27,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,35,48,30,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,64,75,84,['Child is very Inteligent']
+33,45,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,47,40,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,66,52,66,['Child is very Inteligent']
+85,68,70,60,['Child is very Inteligent']
+18,18,30,33,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+65,58,65,85,['Child is very Inteligent']
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+40,38,33,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+64,86,66,80,['Child is very Inteligent']
+40,35,35,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+80,86,72,80,['Child is very Inteligent']
+35,41,40,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,46,44,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,76,64,60,['Child is very Inteligent']
+44,72,70,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+25,36,38,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+68,86,75,80,['Child is very Inteligent']
+56,35,48,37,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,64,70,84,['Child is very Inteligent']
+54,66,68,58,['Child is very Inteligent']
+38,76,78,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+78,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind']"
+74,52,65,60,['Child is very Inteligent']
+68,58,75,70,['Child is very Inteligent']
+75,58,82,69,['Child is very Inteligent']
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,60,65,78,['Child is very Inteligent']
+68,90,76,94,['Child is very Inteligent']
+35,35,45,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+35,40,45,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+40,36,40,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+72,76,64,60,['Child is very Inteligent']
+36,45,35,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,48,40,42,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,35,48,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+30,76,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,60,58,['Child is very Inteligent']
+38,37,40,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+18,58,30,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+58,58,70,80,['Child is very Inteligent']
+30,72,2,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,27,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+17,45,38,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,27,37,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+31,82,64,88,"['Practice, the more  you read the better reader you become, do feed your mind']"
+30,48,37,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+58,72,68,80,['Child is very Inteligent']
+57,92,80,60,['Child is very Inteligent']
+22,84,68,76,"['Practice, the more  you read the better reader you become, do feed your mind']"
+24,41,54,24,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+24,56,48,20,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+66,56,58,72,['Child is very Inteligent']
+78,66,75,60,['Child is very Inteligent']
+22,32,40,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+17,44,42,48,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+16,12,28,28,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+5,8,14,28,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,30,32,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+94,88,76,86,['Child is very Inteligent']
+88,82,72,40,['Play mathematical games so that you can have fun and learn at the same time']
+92,82,70,72,['Child is very Inteligent']
+34,25,37,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+37,30,32,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+92,82,74,68,['Child is very Inteligent']
+94,86,80,58,['Child is very Inteligent']
+86,96,72,66,['Child is very Inteligent']
+39,45,42,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+44,25,33,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+98,70,62,54,['Child is very Inteligent']
+40,45,36,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+82,78,52,88,['Child is very Inteligent']
+39,36,30,27,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+39,48,35,22,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+41,32,36,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+86,92,76,74,['Child is very Inteligent']
+64,84,66,32,['Play mathematical games so that you can have fun and learn at the same time']
+78,50,50,80,['Child is inteligent but needs help from guidane also']
+47,35,38,52,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+40,56,32,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+35,35,40,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+42,32,22,72,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+78,57,75,56,['Child is very Inteligent']
+44,12,24,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+24,8,20,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+68,90,76,94,['Child is very Inteligent']
+62,88,74,90,['Child is very Inteligent']
+60,80,74,80,['Child is very Inteligent']
+64,86,66,80,['Child is very Inteligent']
+88,82,50,88,['Child is inteligent but needs help from guidane also']
+80,86,72,80,['Child is very Inteligent']
+66,72,72,76,['Child is very Inteligent']
+52,76,56,80,['Child is very Inteligent']
+72,76,64,60,['Child is very Inteligent']
+44,35,36,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,84,50,68,['Child is inteligent but needs help from guidane also']
+54,86,40,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,82,48,70,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,64,48,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+36,24,36,46,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,66,20,58,"['Practice, the more  you read the better reader you become, do feed your mind']"
+38,76,40,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,66,38,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+74,58,65,70,['Child is very Inteligent']
+42,58,20,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+58,72,75,69,['Child is very Inteligent']
+54,60,15,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+24,45,41,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,47,54,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary']"
+37,60,65,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+66,94,78,86,['Child is very Inteligent']
+50,45,54,40,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+56,36,50,48,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+62,90,56,70,['Child is very Inteligent']
+52,40,54,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,60,30,52,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,45,54,42,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+41,64,30,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,88,58,52,['Child is inteligent but needs help from guidane also']
+50,66,52,50,['Child is inteligent but needs help from guidane also']
+50,80,24,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+45,50,44,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,52,58,58,['Child is inteligent but needs help from guidane also']
+28,64,40,64,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+74,50,40,52,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+32,45,40,26,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,50,58,26,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+32,28,30,34,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+26,10,32,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+34,50,58,26,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+45,51,25,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,50,62,47,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+45,57,36,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,47,50,36,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+50,45,64,37,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+80,96,56,96,['Child is very Inteligent']
+39,50,60,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+44,39,58,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+37,50,34,53,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,37,39,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+54,41,42,55,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+58,50,42,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+37,50,52,38,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+51,49,44,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,55,50,37,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+42,37,30,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+36,58,20,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,65,54,50,['Child is inteligent but needs help from guidane also']
+63,56,63,60,['Child is very Inteligent']
+71,50,64,63,['Child is inteligent but needs help from guidane also']
+55,70,72,66,['Child is very Inteligent']
+65,60,50,44,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+70,52,65,57,['Child is very Inteligent']
+60,74,56,55,['Child is very Inteligent']
+98,96,74,96,['Child is very Inteligent']
+66,41,52,37,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+94,80,54,84,['Child is very Inteligent']
+50,41,52,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+45,50,50,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+80,90,54,86,['Child is very Inteligent']
+54,50,50,45,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+84,86,44,64,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,65,28,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+54,57,23,56,"['Practice, the more  you read the better reader you become, do feed your mind']"
+51,56,42,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+32,64,50,72,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,58,50,40,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+62,51,20,64,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,70,22,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+52,42,4,46,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+66,52,18,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+60,58,34,64,"['Practice, the more  you read the better reader you become, do feed your mind']"
+56,46,18,30,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+46,74,28,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,68,14,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+48,46,16,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+72,80,55,68,['Child is very Inteligent']
+95,81,67,92,['Child is very Inteligent']
+93,85,72,84,['Child is very Inteligent']
+51,60,40,36,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,57,50,33,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+50,55,55,38,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+55,50,25,58,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+88,79,68,76,['Child is very Inteligent']
+97,84,24,95,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,50,21,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+47,50,30,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+51,50,21,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+71,71,60,74,['Child is very Inteligent']
+64,66,74,61,['Child is very Inteligent']
+47,50,38,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,51,21,74,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+52,65,23,56,"['Practice, the more  you read the better reader you become, do feed your mind']"
+59,68,27,69,"['Practice, the more  you read the better reader you become, do feed your mind']"
+68,72,7,65,"['Practice, the more  you read the better reader you become, do feed your mind']"
+74,65,80,50,['Child is inteligent but needs help from guidane also']
+65,70,55,60,['Child is very Inteligent']
+50,37,50,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+69,70,66,74,['Child is very Inteligent']
+97,84,66,85,['Child is very Inteligent']
+45,47,25,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,55,51,35,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+87,83,62,87,['Child is very Inteligent']
+41,25,45,53,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+36,30,37,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+54,50,38,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+35,65,35,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+97,83,21,88,"['Practice, the more  you read the better reader you become, do feed your mind']"
+82,74,47,79,"['Practice, the more  you read the better reader you become, do feed your mind']"
+76,68,51,73,['Child is very Inteligent']
+50,35,57,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+68,73,29,72,"['Practice, the more  you read the better reader you become, do feed your mind']"
+52,45,17,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+77,68,25,64,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,64,22,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+61,50,21,67,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+59,67,17,52,"['Practice, the more  you read the better reader you become, do feed your mind']"
+63,53,18,61,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,54,25,55,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,50,50,38,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+32,57,54,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+25,37,52,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+40,35,59,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+93,84,58,91,['Child is very Inteligent']
+81,91,70,81,['Child is very Inteligent']
+50,39,30,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,45,21,59,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+65,50,16,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+65,50,20,52,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+45,55,25,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+39,86,45,80,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+56,50,18,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,60,27,37,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+52,55,41,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+53,37,22,51,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+41,79,22,74,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+44,58,17,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+23,60,18,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+47,55,6,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+34,69,20,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+78,65,65,52,['Child is very Inteligent']
+55,50,68,70,['Child is inteligent but needs help from guidane also']
+52,54,78,52,['Child is very Inteligent']
+80,55,75,51,['Child is very Inteligent']
+82,93,67,79,['Child is very Inteligent']
+51,65,60,50,['Child is inteligent but needs help from guidane also']
+55,54,65,60,['Child is very Inteligent']
+54,50,80,66,['Child is inteligent but needs help from guidane also']
+93,93,78,94,['Child is very Inteligent']
+54,50,66,50,['Child is inteligent but needs help from guidane also']
+55,57,28,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+90,87,21,91,"['Practice, the more  you read the better reader you become, do feed your mind']"
+55,45,43,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+54,50,43,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+36,45,57,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+73,88,37,81,"['Practice, the more  you read the better reader you become, do feed your mind']"
+64,84,49,72,"['Practice, the more  you read the better reader you become, do feed your mind']"
+52,35,51,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,51,27,51,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+54,38,52,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+36,42,15,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+29,45,20,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+54,35,38,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+72,88,72,92,['Child is very Inteligent']
+86,86,44,98,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,36,38,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+86,68,46,94,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,50,45,57,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+82,74,48,92,"['Practice, the more  you read the better reader you become, do feed your mind']"
+62,80,60,80,['Child is very Inteligent']
+5,50,50,61,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+62,84,48,88,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,50,53,5,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+50,44,50,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,38,56,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,56,42,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+56,86,44,76,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,54,40,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+60,60,44,92,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,54,32,78,"['Practice, the more  you read the better reader you become, do feed your mind']"
+74,64,36,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,54,52,34,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+62,72,10,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+60,64,48,74,"['Practice, the more  you read the better reader you become, do feed your mind']"
+52,80,22,80,"['Practice, the more  you read the better reader you become, do feed your mind']"
+54,52,12,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+26,28,2,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+94,90,100,98,['Child is very Inteligent']
+98,80,92,96,['Child is very Inteligent']
+72,74,92,96,['Child is very Inteligent']
+94,90,62,98,['Child is very Inteligent']
+50,40,55,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+45,54,50,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+40,50,52,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+82,76,52,96,['Child is very Inteligent']
+76,82,58,98,['Child is very Inteligent']
+84,70,42,88,"['Practice, the more  you read the better reader you become, do feed your mind']"
+51,50,45,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+52,45,50,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+80,82,60,88,['Child is very Inteligent']
+62,40,56,40,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+74,72,48,94,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,45,52,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+37,50,38,56,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+66,68,16,90,"['Practice, the more  you read the better reader you become, do feed your mind']"
+55,38,40,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+41,54,54,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+52,60,52,58,['Child is very Inteligent']
+51,54,40,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+62,65,62,20,['Play mathematical games so that you can have fun and learn at the same time']
+94,90,94,98,['Child is very Inteligent']
+94,90,90,98,['Child is very Inteligent']
+98,80,90,96,['Child is very Inteligent']
+82,76,90,96,['Child is very Inteligent']
+82,80,92,98,['Child is very Inteligent']
+90,90,90,90,['Child is very Inteligent']
+84,70,88,88,['Child is very Inteligent']
+72,74,92,96,['Child is very Inteligent']
+53,52,42,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+74,72,86,94,['Child is very Inteligent']
+78,76,90,90,['Child is very Inteligent']
+72,70,90,96,['Child is very Inteligent']
+66,82,92,86,['Child is very Inteligent']
+80,82,72,88,['Child is very Inteligent']
+62,74,90,94,['Child is very Inteligent']
+51,52,50,45,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+51,49,38,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,45,50,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+82,38,82,84,['Practice wide and wild reading to improve vocabulary']
+72,54,82,80,['Child is very Inteligent']
+52,60,64,58,['Child is very Inteligent']
+68,54,64,72,['Child is very Inteligent']
+62,52,54,78,['Child is very Inteligent']
+45,50,50,54,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,54,51,37,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+80,45,42,96,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,54,14,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+84,82,54,96,['Child is very Inteligent']
+92,66,56,94,['Child is very Inteligent']
+41,50,51,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+80,80,56,94,['Child is very Inteligent']
+84,64,64,90,['Child is very Inteligent']
+57,51,36,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+33,38,50,55,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+49,50,50,39,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+58,58,64,92,['Child is very Inteligent']
+53,50,39,44,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+76,76,28,98,"['Practice, the more  you read the better reader you become, do feed your mind']"
+70,74,40,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+80,62,50,76,['Child is inteligent but needs help from guidane also']
+68,52,52,68,['Child is very Inteligent']
+76,64,22,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+64,48,18,60,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,62,22,58,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+64,36,20,64,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+32,38,38,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,8,8,28,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+74,80,60,55,['Child is very Inteligent']
+28,16,10,20,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+46,10,2,16,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+22,4,10,2,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,50,55,31,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+58,37,42,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,36,50,37,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+38,40,56,55,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary']"
+50,82,78,96,['Child is inteligent but needs help from guidane also']
+70,72,50,92,['Child is inteligent but needs help from guidane also']
+64,38,50,45,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+74,72,42,82,"['Practice, the more  you read the better reader you become, do feed your mind']"
+66,84,84,62,['Child is very Inteligent']
+50,47,45,32,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+72,39,37,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,38,50,58,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,66,28,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,60,54,32,"['Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+50,82,24,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,66,80,50,['Child is inteligent but needs help from guidane also']
+52,66,38,30,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,72,69,50,['Child is inteligent but needs help from guidane also']
+58,36,36,52,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+64,50,28,52,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+32,60,26,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+46,52,26,58,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+30,50,54,60,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+46,36,14,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+40,62,78,54,"['Practice, the more  you read the better reader you become, do feed your mind']"
+65,87,69,85,['Child is very Inteligent']
+76,88,82,90,['Child is very Inteligent']
+50,50,41,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+84,62,76,78,['Child is very Inteligent']
+45,40,44,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+50,40,56,41,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+84,78,36,92,"['Practice, the more  you read the better reader you become, do feed your mind']"
+58,38,48,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+51,50,58,85,['Child is inteligent but needs help from guidane also']
+76,52,30,31,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+30,50,58,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+60,30,52,50,"['Practice wide and wild reading to improve vocabulary', 'Child is inteligent but needs help from guidane also']"
+50,66,46,82,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+52,46,34,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+62,48,16,50,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+28,88,14,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+36,62,22,68,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+60,36,32,42,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+52,70,12,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+34,52,22,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,38,4,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+32,62,16,48,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,52,2,32,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+100,90,80,94,['Child is very Inteligent']
+100,86,82,86,['Child is very Inteligent']
+60,96,76,96,['Child is very Inteligent']
+56,38,52,45,"['Practice wide and wild reading to improve vocabulary', 'Play mathematical games so that you can have fun and learn at the same time']"
+45,35,35,55,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,51,47,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+41,38,39,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+80,84,86,92,['Child is very Inteligent']
+86,90,50,98,['Child is inteligent but needs help from guidane also']
+68,60,18,41,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+36,41,54,64,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary']"
+50,8,30,45,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+50,72,36,82,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+60,60,8,84,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,76,12,80,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+32,60,36,70,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+40,38,40,62,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+54,50,78,56,['Child is inteligent but needs help from guidane also']
+50,50,66,64,['Child is inteligent but needs help from guidane also']
+51,50,77,65,['Child is inteligent but needs help from guidane also']
+26,32,2,20,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+50,50,58,60,['Child is inteligent but needs help from guidane also']
+44,56,50,45,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time', 'Child is inteligent but needs help from guidane also']"
+65,78,85,50,['Child is inteligent but needs help from guidane also']
+50,62,56,58,['Child is inteligent but needs help from guidane also']
+45,41,36,40,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+58,65,70,50,['Child is inteligent but needs help from guidane also']
+51,50,58,85,['Child is inteligent but needs help from guidane also']
+76,52,30,31,"['Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+85,50,58,52,['Child is inteligent but needs help from guidane also']
+60,70,52,50,['Child is inteligent but needs help from guidane also']
+50,66,46,82,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+52,74,65,75,['Child is very Inteligent']
+62,74,60,50,['Child is inteligent but needs help from guidane also']
+65,88,66,50,['Child is inteligent but needs help from guidane also']
+36,62,22,68,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+51,36,32,42,"['Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind', 'Play mathematical games so that you can have fun and learn at the same time']"
+52,70,12,50,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+55,52,75,66,['Child is very Inteligent']
+22,38,4,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice wide and wild reading to improve vocabulary', 'Practice, the more  you read the better reader you become, do feed your mind']"
+50,62,55,75,['Child is inteligent but needs help from guidane also']
+50,52,77,56,['Child is inteligent but needs help from guidane also']
+52,70,71,50,['Child is inteligent but needs help from guidane also']
+34,52,22,66,"['Practice, the more  you read the better reader you become, do feed your mind', 'Practice, the more  you read the better reader you become, do feed your mind']"
+22,50,87,76,"['Practice, the more  you read the better reader you become, do feed your mind', 'Child is inteligent but needs help from guidane also']"
+32,62,77,52,"['Practice, the more  you read the better reader you become, do feed your mind']"
+50,52,68,57,['Child is inteligent but needs help from guidane also']
+67,52,55,66,['Child is very Inteligent']
