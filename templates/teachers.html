@@ -7,25 +7,33 @@
       document.getElementById('students').style.display = "none";
       document.getElementById('newstudents').style.display = "contents";
       document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('exam').style.display = "none";
+      document.getElementById('Search').style.display = "none";
     }
     function exams(){
       document.getElementById('students').style.display = "none";
       document.getElementById('newstudents').style.display = "none";
       document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('Review').style.display = "none";
+      document.getElementById('Search').style.display = "none";
       document.getElementById('exam').style.display = "contents";
     }
     function Students(){
       document.getElementById('students').style.display = "contents";
       document.getElementById('newstudents').style.display = "none";
       document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('exam').style.display = "none";
+      document.getElementById('Search').style.display = "none";
     }
     function Assessment(){
       document.getElementById('Assessmentmarks').style.display = "contents";
       document.getElementById('newstudents').style.display = "none";
       document.getElementById('students').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('exam').style.display = "none";
+      document.getElementById('Search').style.display = "none";
     }
     function writting(){
       document.getElementById('subtraction').style.display = "none";
@@ -33,7 +41,9 @@
       document.getElementById('division').style.display = "none";
       document.getElementById('addition').style.display = "none";
       document.getElementById('reading').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('writting').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
       
     }
     function reading(){
@@ -41,8 +51,10 @@
       document.getElementById('subtraction').style.display = "none";
       document.getElementById('division').style.display = "none";
       document.getElementById('addition').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('reading').style.display = "contents";
       document.getElementById('writting').style.display = "none";
+      document.getElementById('Search').style.display = "none";
     }
     function addition(){
       document.getElementById('reading').style.display = "none";
@@ -50,7 +62,9 @@
       document.getElementById('subtraction').style.display = "none";
       document.getElementById('division').style.display = "none";
       document.getElementById('multiplication').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('addition').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
     }
     function subtraction(){
       document.getElementById('reading').style.display = "none";
@@ -58,7 +72,9 @@
       document.getElementById('addition').style.display = "none";
       document.getElementById('division').style.display = "none";
       document.getElementById('multiplication').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('subtraction').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
     }
     function division(){
       document.getElementById('reading').style.display = "none";
@@ -66,7 +82,9 @@
       document.getElementById('subtraction').style.display = "none";      
       document.getElementById('addition').style.display = "none";
       document.getElementById('multiplication').style.display = "none";
+      document.getElementById('Review').style.display = "none";
       document.getElementById('division').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
     }
     function multiplication(){
       document.getElementById('reading').style.display = "none";
@@ -74,13 +92,44 @@
       document.getElementById('subtraction').style.display = "none";
       document.getElementById('division').style.display = "none";
       document.getElementById('addition').style.display = "none";
+      document.getElementById('Review').style.display = "none";
+      document.getElementById('Search').style.display = "none";
       document.getElementById('multiplication').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
+    }
+    function Review(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('exam').style.display = "none";
+      document.getElementById('newstudents').style.display = "none";
+      document.getElementById('students').style.display = "none";
+      document.getElementById('Review').style.display = "contents";
+      document.getElementById('Search').style.display = "none";
+    }
+    function Search(){
+      document.getElementById('reading').style.display = "none";
+      document.getElementById('writting').style.display = "none";
+      document.getElementById('subtraction').style.display = "none";
+      document.getElementById('division').style.display = "none";
+      document.getElementById('addition').style.display = "none";
+      document.getElementById('multiplication').style.display = "none";
+      document.getElementById('Assessmentmarks').style.display = "none";
+      document.getElementById('exam').style.display = "none";
+      document.getElementById('newstudents').style.display = "none";
+      document.getElementById('Review').style.display = "none";
+      document.getElementById('Search').style.display = "contents";
     }
   </script>
 <style>
     .mysidebar{
         height: 50px; 
-        background-color: navy; 
+        background-color: #17a2b8;
         color: whitesmoke;
         border-radius: 5px;
         align-content: center;
@@ -89,11 +138,12 @@
         margin-top: 20px;
     }
 </style>
+<hr>
 
 <div class="container">
     <br><br>
     <p>{{ "Logged in as " + session['Name'] + " " + session['Surname']}}</p>
-      <p style="color: green">{{message}}</p>
+      <p style="color: green">{{message}}<a href="{{url_for('teachers')}}" class="btn btn-info" style="float:right;">&nbspReload</a></p>
     <div class="row">
 
     <div class="col-md-9">
@@ -127,6 +177,26 @@
                         {% endfor %}
                  </tbody>
             </table>
+            <div class="row">
+              <div class="col-md-4">
+
+              </div>
+              <div class="col-md-4">
+                  <center>
+                      <form method="POST" action="/delete">
+                      <label>Drop student</label><br>
+                      <input type="text" name="delete" class="form-control"><br>
+                      <button type="submit" class="btn btn-info">Delete</button>
+                      </form>
+                    </center>
+              </div>
+              <div class="col-md-">
+
+              </div>
+
+
+            </div>
+           
         </div>
       
         <div id="newstudents" style="display: none;">
@@ -220,10 +290,11 @@
                       </tr>
                     <tbody>
                       <tr>
-                          <td> <label>Full Name</label></td>
-                          <td><input type="text" class="form-control" name="name" required=''></td>
+                      
                           <td><label>Reg number</label></td>
                           <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          <td></td>
+                          <td></td>
                       </tr>
                       <tr>
                         <td><br></td>
@@ -233,9 +304,9 @@
                       </tr>
                       <tr>
                           <td> <label>Reading Mark</label></td>
-                          <td><input type="value" class="form-control" name="mark"></td>
+                          <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
                           <td><input type="text" name="Reading" id="2" placeholder="Reading Age(months)" readonly style="border:none"></td>
-                          <td><input type="value" class="form-control" name="age"></td>
+                          <td><input type="number" class="form-control" name="age" min="60" max="192"></td>
                         </tr>
                       
                       </tbody>
@@ -267,10 +338,12 @@
                       </tr>
                     <tbody>
                       <tr>
-                          <td> <label>Full Name</label></td>
-                          <td><input type="text" class="form-control" name="name" required=''></td>
+                        
+ 
                           <td><label>Reg number</label></td>
                           <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          <td></td>
+                          <td></td>
                       </tr>
                       <tr>
                         <td><br></td>
@@ -282,9 +355,9 @@
                       <tr>
                 
                           <td> <label>Writing Mark</label></td>
-                          <td><input type="value" class="form-control" name="mark"></td>
-                          <td><input type="text" name="Writting" placeholder="Writing Age(months)" readonly style="border:none" id="1"></td>
-                          <td><input type="value" class="form-control" name="age"></td>
+                          <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
+                          <td><label>Writing Age(months)</label></td>
+                          <td><input type="number" class="form-control" name="age" min="60" max="192"></td>
                          </tr>
 
                         </tbody>
@@ -317,10 +390,10 @@
                       </tr>
                     <tbody>
                       <tr>
-                          <td> <label>Full Name</label></td>
-                          <td><input type="text" class="form-control" name="name" required=''></td>
                           <td><label>Reg number</label></td>
                           <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                          <td></td>
+                          <td></td>
                       </tr>
                       <tr>
                         <td><br></td>
@@ -332,9 +405,9 @@
                       <tr>
                         
                           <td> <label>Addition Mark<label></td>
-                          <td><input type="value" class="form-control" name="mark"></td>
+                          <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
                           <td><label>Age(months)</label></td>
-                          <td><input type="value" class="form-control" name="age"></td>
+                          <td><input type="number" class="form-control" name="age" min="60" max="162"></td>
                         </tr>
 
                       </tbody>
@@ -368,10 +441,12 @@
                           </tr>
                         <tbody>
                           <tr>
-                              <td> <label>Full Name</label></td>
-                              <td><input type="text" class="form-control" name="name" required=''></td>
+                  
+
                               <td><label>Reg number</label></td>
                               <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                              <td></td>
+                              <td></td>
                           </tr>
                           <tr>
                             <td><br></td>
@@ -382,9 +457,9 @@
 
                           <tr>
                               <td> <label>Subtraction Mark</label></td>
-                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
                               <td><label>Subtraction Age(months)</label></td>
-                              <td><input type="value" class="form-control" name="age"></td>
+                              <td><input type="number" class="form-control" name="age" min="60" max="162"></td>
               
                             </tr>
                           </tbody>
@@ -416,10 +491,10 @@
                           </tr>
                         <tbody>
                           <tr>
-                              <td> <label>Full Name</label></td>
-                              <td><input type="text" class="form-control" name="name" required=''></td>
                               <td><label>Reg number</label></td>
                               <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                              <td></td>
+                              <td></td>
                           </tr>
                           <tr>
                             <td><br></td>
@@ -431,9 +506,9 @@
                           <tr>
                         
                               <td> <label>Multiplication Mark</label></td>
-                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
                               <td><label>Multiplication Age(months)</label></td>
-                              <td><input type="value" class="form-control" name="age"></td>
+                              <td><input type="number" class="form-control" name="age" min="60" max="162"></td>
           
                             </tr>
 
@@ -467,10 +542,10 @@
                           </tr>
                         <tbody>
                           <tr>
-                              <td> <label>Full Name</label></td>
-                              <td><input type="text" class="form-control" name="name" required=''></td>
                               <td><label>Reg number</label></td>
                               <td><input type="text" class="form-control" name="RegNumber" required=''></td>
+                              <td></td>
+                              <td></td>
                           </tr>
                           <tr>
                             <td><br></td>
@@ -481,10 +556,10 @@
 
                           <tr>
                         
-                              <td> <label>Division Mark</label></td>
-                              <td><input type="value" class="form-control" name="mark"></td>
+                              <td> <label>Division Mark (100)</label></td>
+                              <td><input type="number" class="form-control" name="mark" min="0" max="99"></td>
                               <td><label>Division Age(months)</label></td>
-                              <td><input type="value" class="form-control" name="age"></td>
+                              <td><input type="number" class="form-control" name="age" min="60" max="162"></td>
           
                             </tr>
 
@@ -500,14 +575,14 @@
                      
     
                 <br><br>
-                <center>
+  
                 <button type="button" class="btn btn-primary btn-lg" onclick="writting()">Writting</button>
                 <button type="button" class="btn btn-primary btn-lg" onclick="reading()">Reading</button>
                 <button type="button" class="btn btn-primary btn-lg" onclick="addition()">Additions</button>
                 <button type="button" class="btn btn-primary btn-lg" onclick="subtraction()">Subtractions</button>
                 <button type="button" class="btn btn-primary btn-lg" onclick="division()">Divisions</button>
                 <button type="button" class="btn btn-primary btn-lg" onclick="multiplication()">Multiplications</button>
-                </center>
+          
           </div>
       <div id="exam" style="display: none;">
         <h2>Exam Marks</h2>
@@ -524,10 +599,10 @@
             </thead>
             <tbody>
               <tr>
-                <td><label class="control-label">Student Name</label></td>
-                <td><input type="text" class="form-control" name="name"></td>
                 <td><label class="control-label">Reg number</label></td>
                 <td><input type="text" class="form-control" name = "RegNumber"></td>
+                <td><label class="control-label">Grade</label></td>
+                <td><input type="number" min="0" max="7" name="grade" class="form-control"</td>
               </tr>
               <tr>
                   <td><br></td>
@@ -545,28 +620,28 @@
                   <td></td>
                   <td><label class="control-label">Mathematics</label></td>
               
-                  <td><input type="text" class="form-control" name = "RegNumber"></td>
+                  <td><input type="number" class="form-control" name = "math" min="0" max="99"></td>
                   <td></td>
                 </tr>
                 <tr>
                     <td></td>
                     <td><label class="control-label">English</label></td>
                 
-                    <td><input type="text" class="form-control" name = "RegNumber"></td>
+                    <td><input type="number" class="form-control" name = "eng" min="0" max="99"></td>
                     <td></td>
                   </tr>
                   <tr>
                       <td></td>
                       <td><label class="control-label">Shona</label></td>
                   
-                      <td><input type="text" class="form-control" name = "RegNumber"></td>
+                      <td><input type="number" class="form-control" name = "shona" min="0" max="99"></td>
                       <td></td>
                     </tr>
                     <tr>
                         <td></td>
                         <td><label class="control-label">General Paper</label></td>
                     
-                        <td><input type="text" class="form-control" name = "RegNumber"></td>
+                        <td><input type="number" class="form-control" name = "gp" min="0" max="99"></td>
                         <td></td>
                       </tr>
             </tbody>
@@ -581,19 +656,50 @@
 
       </div>
 
-    <div id="reveals">
+    <div id="Review" style="display:none">
+        <h2>Search</h2>
+        <form method="POST" action="/search">
+          <p>Search by name,surname, or Reg-Number</p>
+          <input type="text" class="form-control" name="search">
+          <button type="submit" class="btn btn-info">Search</button>
+        </form>
 
     </div>
+
+    <div id="Search" style="display:none">
+        <h2>Review</h2>
+          <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-4">
+                <form action="/review" method="POST">
+                  <label>Please enter student Reg Number</label>
+                  <input type="text" class="form-control" name="review"><br>
+                  <center>
+                  <button type="submit" class="btn btn-primary">Review</button>
+                  </center>
+                  </form>
+            </div>
+            <div class="col-md-4">
+
+            </div>
+          </div>
+          
+          
+
+    </div>
+
 
     </div>
         <div class="col-md-3" style="margin-top: 70px; top: 0; float: right;" id="me">
             
             <button class="mysidebar" onclick="NewStudent()">New</button><br>
             <button class="mysidebar"  onclick="Students()">Students</button><br>
-            <button class="mysidebar" onclick="exams()">Examination Marks</center></button>
-            <br>
+            <button class="mysidebar" onclick="exams()">Examination Marks</button><br>
             <button class="mysidebar" onclick="Assessment()">Assessment marks</button><br>
-            <button class="mysidebar" href="#students" style="color:whitesmoke"><center>Search</center></button><br>
+            <button class="mysidebar" onclick="Search()">Review</button><br>
+            <button class="mysidebar" onclick="Review()">Search</button><br>
         </div>
     </div>
 

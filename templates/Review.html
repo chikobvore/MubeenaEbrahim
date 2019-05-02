@@ -1,0 +1,161 @@
+{% extends 'index.html' %}
+{% block content %}
+<style>
+    .review {
+        display: grid
+    }
+    .grid-container{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 10px;
+    }
+    .grid-item{
+  padding: 10px;
+  text-align: left;
+    }
+</style>
+<hr>
+<div class="container">
+    <a href = "{{url_for('teachers')}}" class="btn btn-info btn-lg">Back</a>
+    <br><br><br>
+    <div class="row">
+        <div class="col-md-2">
+
+        </div>
+        <div class="col-md-8">
+            <div class="grid-container">
+                    {% for student in students %}
+                    <div class="grid-item">
+                            <label>Name</label>
+                    </div>
+                    <div class="grid-item">
+                            <label>{{student.Name +" " + student.Surname}}</label>
+                    </div>
+
+                    <div class="grid-item">
+                            <label>Reg Number</label>
+                    </div>
+                    <div class="grid-item">
+                            <label>{{student.RegNumber}}</label>
+                    </div>
+
+                <div class="grid-item">
+                        <label>Health status</label>
+                </div>
+                <div class="grid-item">
+                        <label>{{student.health}}</label>
+                </div>
+
+                <div class="grid-item">
+                        <label>Parents</label>
+                </div>
+                <div class="grid-item">
+                        <label>{{student.parents}}</label>
+                </div>
+
+                <div class="grid-item">
+                        <label>Guidane</label>
+                </div>
+                <div class="grid-item">
+                        <label>{{student.relation}}</label>
+                </div>
+
+                <div class="grid-item">
+                        <label>Guidane level of Education</label>
+                </div>
+                <div class="grid-item">
+                        <label>{{student.level}}</label>
+                </div>  
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-md-2">
+
+        </div>
+        <div class="col-md-12">
+            <h2>Continous assessment marks</h2>
+            <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Assessment</th>
+                        <th>Mark %</th>
+                        <th>Age(months)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for mark in StudentMarks %}
+                    <tr>
+                        <td>{{mark.Assessment}}</td>
+                        <td>{{mark.Mark}}</td>
+                        <td>{{mark.Age}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            </div>
+        </div>
+
+        <div class="col-md-12">
+            <center>
+                    <h2>Examination marks</h2>
+            </center>
+                
+                <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Grade</th>
+                            <th>Maths</th>
+                            <th>English</th>
+                            <th>Shona</th>
+                            <th>General Paper</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for exam in Exammark %}
+                        <tr>
+                            <td>{{exam.Grade}}</td>
+                            <td>{{exam.Maths}}</td>
+                            <td>{{exam.English}}</td>
+                            <td>{{exam.Shona}}</td>
+                            <td>{{exam.Gp}}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                </div>
+            </div>
+                
+            <div class="col-md-12">
+                    <h2>Future</h2>
+                
+                    
+                        
+                            <div class="row">
+                                <div class="col-md-3">
+
+                                </div>
+                                <div class="col-md-6">
+                                        <div class="grid-container">
+                                                <div class="grid-item">
+                                                    <label>Remarks:</label>
+                                                </div>
+                                                <div class="grid-item">
+                                                    <label>{{prediction}}</label>
+                                                </div>
+                                                <div class="grid-item">
+                                                    <label>Remedial Actions</label>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="col-md-3">
+
+                                </div>
+                            </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+{% endblock %}
