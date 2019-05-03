@@ -24,7 +24,8 @@ Model.score(inputs,Target)
 LogisticRegressionData = pd.read_csv('static/datasets/mubeena2.csv')
 LogisticRegressionInputs = LogisticRegressionData.drop('Remarks',axis = 'columns')
 print(LogisticRegressionData.head())
-LogisticRegressionModel = LogisticRegression(solver = 'lbfgs' ,multi_class='multinomial')
+# LogisticRegressionModel = LogisticRegression(solver = 'lbfgs' ,multi_class='multinomial')
+LogisticRegressionModel = tree.DecisionTreeClassifier()
 
 le = preprocessing.LabelEncoder()
 
@@ -312,15 +313,18 @@ def review():
 					print(Model.score(inputs,Target))
 					print(Model.predict([[Maths,Eng,Shona,Gp,total]]))
 					Predict = Model.predict([[Maths,Eng,Shona,Gp,total]])
-					test =[Maths,Eng,Shona,Gp]
-					LogisticRegressionPredict = LogisticRegressionModel.predict([test]).astype(np.float64)
-					print(LogisticRegressionPredict)
+
+					
+
+					LogisticRegressionPredict = LogisticRegressionModel.predict([[Maths,Eng,Shona,Gp]])
+					actions = le.inverse_transform(LogisticRegressionPredict)
+					
 					if Predict == 1:
 						prediction = "Pass"
 					else:
 						prediction = "Fail"
 					# print(accuracy_score(Model.predict([[Maths,Eng,Shona,Gp,total]]),Target))
-					return render_template('Review.html',students = students,StudentMarks = StudentMarks,Exammark = Exammark,prediction = prediction)
+					return render_template('Review.html',students = students,StudentMarks = StudentMarks,Exammark = Exammark,prediction = prediction,actions= actions)
 				else:
 					message = "No Exam marks found for the student"
 					return render_template('teachers.html',message = message)
